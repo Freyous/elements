@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
 <elements>
     <info>
         <name>Eldrich Invocations</name>
@@ -205,4 +206,3 @@
             <grant type="Spell" id="ID_PHB_SPELL_FREEDOM_OF_MOVEMENT" />
         </rules>
     </element>
-</elements>
